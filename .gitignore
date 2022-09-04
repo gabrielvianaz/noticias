@@ -1,4 +1,3 @@
 node_modules
-.gitignore
 script.js
 webpack.config.js
